@@ -1,0 +1,116 @@
+.contenedor-texto{
+    background-color: rgb(255, 244, 228);
+    padding: 50px;
+    width: 100%;
+}
+
+.contenedor-texto h1 {
+    font-size: 80px;
+    color: orange;
+    font-family: "comic sans";
+    font-weight: 600%;
+    font-style: italic;
+    padding: 80px;
+    width: 100%;
+}
+
+
+.contenedor-texto p {
+    padding: 100px;
+    background-color: rgb(255, 255, 255);
+    margin: 80px;
+}
+
+
+
+#footer{
+    background: #2e2e2e;
+    width: 100%;
+    height: auto;
+	align-content: flex-end
+}
+
+#pie-footer{
+    background: #000;
+    width: 100%;
+    height: auto;
+}
+
+.titulo-footer{
+    color: #fff;
+    text-align: center;
+    position: relative;
+    top: 10px;
+    font-size: 15px;
+}
+
+.span-subtitulo{
+    color: rgb(244,246,65);
+    font-weight: 500%;
+}
+
+.contacto{
+    color: #fff;
+    font-size: 20px;
+    margin-top: 35px;
+    font-weight: 100%;
+}
+
+
+.titulo-contacto{
+    color: #fff;
+}
+
+#localizcion{
+    color: yellow;
+    font-size: 25px;
+}
+
+
+.row{
+    width: 100%;
+}
+
+
+.titulo-colonia{
+    color: #fff;
+    margin-left: 25px;
+}
+
+#twiter{
+    color: #0d6efd;
+}
+
+#instagram{
+    color: #dc3145;
+}
+
+#facebook{
+    color: #0d6efd;
+}
+
+
+#mision{
+    text-align: center;
+}
+
+#vision{
+    text-align: center;
+}
+
+#inicio{
+    font-size: 22px;
+    font-style: italic;
+    color: gray;
+
+}
+
+#hoja{
+    font-size: 22px;
+    font-style: italic;
+    color: gray;
+}
+
+.container_a::-webkit-scrollbar-thumb {
+    width: 7px;
+}
